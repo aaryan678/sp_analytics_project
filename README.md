@@ -185,7 +185,3 @@ sp_analytics_project/
   tennis_data/      # Generated CSVs (ignored by git if listed in .gitignore)
   README.md
 ```
-
-## Contributing / usage note
-
-This repo is intended for **research and learning**. Respect **non-commercial** and **attribution** requirements of the upstream tennis datasets.
