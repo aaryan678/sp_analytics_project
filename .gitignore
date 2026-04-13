@@ -1,5 +1,5 @@
 .venv/
-tennis_data/
+# tennis_data/
 __pycache__/
 *.py[cod]
 .DS_Store
